@@ -1,0 +1,15 @@
+/* estilos.css */
+
+.img-01 {
+    /* Define el ancho máximo, se ajustará automáticamente */
+    max-width: 100%; 
+    /* El alto se ajusta para mantener la proporción */
+    height: auto; 
+    /* Bordes redondeados */
+    border-radius: 10px; 
+    /* Sombra para que destaque */
+    box-shadow: 5px 5px 15px rgba(0, 0, 0, 0.3);
+    /* Centra la imagen si está dentro de un bloque */
+    display: block; 
+    margin: 20px auto; 
+}
